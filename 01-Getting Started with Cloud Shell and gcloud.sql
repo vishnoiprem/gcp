@@ -1,4 +1,6 @@
 
+https://google.qwiklabs.com/focuses/563?parent=catalog#
+
 Need to work with Team
 
 gcloud config list project
